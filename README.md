@@ -23,6 +23,8 @@ Data visualization project completed through the **Tata Consultancy Services Dat
 
 ![Monthly revenue](images/q1_monthly_revenue.png)
 ![Top countries](images/q2_top_countries.png)
+![Top customers](images/q3_top_customers.png)
+![Country demand](images/q4_country_demand.png)
 
 ## Repository contents
 - `powerbi/online_retail_analysis.pbix`: Power BI report
